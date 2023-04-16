@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="doc-struct:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/doc_struct_jar</output-path>
+    <root id="archive" name="doc-struct.jar">
+      <element id="module-output" name="doc-struct" />
+    </root>
+  </artifact>
+</component>
